@@ -26,29 +26,20 @@
 
 ---
 
-### 🔥 GitHub Stats & Contributions
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anamolshrestha-41&show_icons=true&theme=tokyonight&count_private=true&border_radius=10" alt="Anamol's GitHub Stats" />
-</p>
+![Anamol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anamolshrestha-41&show_icons=true&theme=radical&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamolshrestha-41&layout=compact&theme=tokyonight&border_radius=10&langs_count=6&exclude_repo=Colab-Notebooks,notebook-demo" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=anamolshrestha-41&theme=highcontrast&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anamolshrestha-41&theme=gruvbox&margin-w=10&no-bg=true" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anamolshrestha-41/anamolshrestha-41/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anamolshrestha-41&layout=compact&theme=radical&hide_border=true)
 
 ---
+
+### 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=anamolshrestha-41&theme=radical&no-frame=true&margin-w=15)
+
+---
+
 
 ### 🚀 Projects in Progress
 
