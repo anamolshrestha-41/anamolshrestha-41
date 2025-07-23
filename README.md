@@ -34,12 +34,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=anamolshrestha-41&theme=radical&no-frame=true&margin-w=15)
-
----
-
 
 ### 🚀 Projects in Progress
 
