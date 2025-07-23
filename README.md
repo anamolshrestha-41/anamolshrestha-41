@@ -1,94 +1,110 @@
+<!-- anamolshrestha-41 | GitHub README.md -->
 
-<h1 align="center">Hi 👋, I'm Anamol Shrestha</h1>
-<h3 align="center">🚀 Aspiring Technopreneur | MERN + AI/ML Enthusiast | Founder @Exivox (Coming Soon)</h3>
+<h1 align="center">Hey 👋, I'm Anamol Shrestha</h1>
+<h3 align="center">👨‍💻 Tech Explorer | 🚀 Future TechnoPreneur | 🎙️ Music Lover | 💡 Founder @Exivox (Coming Soon)</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anamolshrestha-41&label=Profile%20views&color=0e75b6&style=flat" alt="anamolshrestha-41" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=22F7EB&center=true&vCenter=true&width=440&lines=Dreaming+Big+%7C+Building+Bigger...;Coding+My+Way+to+Innovation;Future+Founder+%40+Exivox+%F0%9F%9A%80;Turning+Emotions+into+Products" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🧠 Learning and building with **MERN Stack** and **AI/ML**
-- 🌐 Working towards launching **Exivox** – an emotion-powered social platform
-- 💡 Exploring tech-driven solutions for real-world emotional and productivity problems
-- 🧱 Believer in consistency and progressive growth – mentally, physically, and technically
-- 🎤 I also write songs and dream of becoming a **voice that speaks and sings to the world**
+### 🧠 About Me
+- 🌱 Full focus on mastering **MERN Stack** + **AI/ML**
+- 🧩 Building toward becoming a **Technopreneur** — not just a dev, a creator
+- 🚀 Founder of **Exivox** — *Emotion-Powered Social Network* (coming soon)
+- 🎵 Writing songs, dreaming loud, building smart
 
 ---
 
-### 🚀 Future Vision & Goals
-- 🏗️ **Build Exivox** – a new kind of social experience built on emotions, connection & real stories
-- 📈 Become a successful **Technopreneur**, creating digital products with meaningful impact
-- 💻 Create smart AI-integrated tools for productivity and life-enhancement
-- 🎙️ Launch a personal podcast and music channel sharing both **code & creativity**
-- 🌍 Help others through tech mentorship and emotional storytelling
+## 💎 My Tech Stack
 
----
-
-### 🧰 Tech Stack
 <div align="center">
-  
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+<table>
+<tr>
+<td align="center" width="130">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5"/><br><sub><b>HTML5</b></sub>
+</td>
+<td align="center" width="130">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3"/><br><sub><b>CSS3</b></sub>
+</td>
+<td align="center" width="130">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript"/><br><sub><b>JavaScript</b></sub>
+</td>
+<td align="center" width="130">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="React"/><br><sub><b>React.js</b></sub>
+</td>
+<td align="center" width="130">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js"/><br><sub><b>Node.js</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="130">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" alt="MongoDB"/><br><sub><b>MongoDB</b></sub>
+</td>
+<td align="center" width="130">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python"/><br><sub><b>Python</b></sub>
+</td>
+<td align="center" width="130">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" alt="Java"/><br><sub><b>Java</b></sub>
+</td>
+<td align="center" width="130">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" alt="GitHub"/><br><sub><b>GitHub</b></sub>
+</td>
+<td align="center" width="130">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" alt="VS Code"/><br><sub><b>VS Code</b></sub>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-### 📚 Current Focus
-- 🔍 Deep dive into **React.js**, custom hooks, context, routing & optimization
-- 🤖 Building AI-based features like advice generators, chatbots, and productivity assistants
-- 📱 Developing UI/UX-heavy personal projects that help people feel, think, and act better
+## 🧩 Wild GitHub Stats & Contributions
+
+<div align="center">
+
+![Anamol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anamolshrestha-41&show_icons=true&theme=tokyonight&border_radius=10&count_private=true)
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anamolshrestha-41&layout=compact&theme=tokyonight&border_radius=10)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=anamolshrestha-41&theme=highcontrast&hide_border=true)
+
+<img src="https://github-profile-trophy.vercel.app/?username=anamolshrestha-41&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
+
+![snake gif](https://github.com/anamolshrestha-41/anamolshrestha-41/blob/output/github-contribution-grid-snake.svg)
+
+</div>
 
 ---
 
-### 🎯 Key Projects
-- 🧮 **[PerformCRUD](https://github.com/anamolshrestha-41/performCRUD)** – BACKEND project for practice CRUD.
-- 📊 **[Sorting Algorithm](https://github.com/anamolshrestha-41/sortingAlgorithm)** – Implementation of Logics and idea of DSA.
-- 🕹️ **[Tic Tac Toe](https://github.com/anamolshrestha-41/tic-tac-toe)** – Simple game with logic-based moves with amazing sounds/music.
-- 🌐 **[Weather App](https://github.com/anamolshrestha-41/weather-app)** – Will soon include AI-generated advice based on weather!
+## 🚀 Projects in Progress
+
+- 🧠 **Exivox** — the social network built on emotions and story depth (Early Alpha)
+- 📦 AI-integrated **productivity suite** tools (GPT & automation)
+- 🎵 Building a small side project with React + Music Player for my voice tracks
 
 ---
 
-### 📈 GitHub Stats
+## 🌍 Let’s Connect & Build Something Wild
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anamolshrestha-41&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamolshrestha-41&layout=compact&theme=radical" />
+  <a href="https://twitter.com/anamolshrestha_1" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/anamolshrestha" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
-### 📫 Connect With Me
-<p align="center">
-  <a href="https://twitter.com/anamolshrestha_1" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/anamolshrestha/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+## ✨ Motto to Live By
 
----
-
-### 🧠 Personal Motto:
+> _"Be the vision you believe. Build what doesn’t exist. Become legendary."_  
+> — Future Founder of **Exivox** 
 > _"Be the voice, build the vision, lead the future."_  
 > _One day, the world will use what I imagined._
 
 ---
 
-### ⚡ Fun Side of Me
-- 🎧 Music and beats are part of my late-night code sprints
-- 💪 Fitness is not a hobby — it’s a **discipline**
-- ☕ Coffee + code + calm = perfect flow
+<p align="center"><img src="https://media.giphy.com/media/UqZ2zObLFyzfi/giphy.gif" width="250" /></p>
 
----
-
-<p align="center">
-  🚀 Let’s connect, create and change the world — one line of code and one human emotion at a time!
-</p>
-
+<p align="center">🚀 Thank you for visiting my universe. More wild builds ahead...</p>
