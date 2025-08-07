@@ -8,4 +8,4 @@
 > _"Be the vision you believe. Build what doesn’t exist. Become legendary."_  
 > _One day, the world will use what I imagined. Today, I build it._
 ---
-<p align="center">🚀 Thanks for visiting my world. Brace for wild builds ahead…</p>
+<p align="center">🚀 Thanks for visiting my world.</p>
