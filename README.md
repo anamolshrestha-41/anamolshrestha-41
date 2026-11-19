@@ -23,17 +23,7 @@ I want to build complete AI-powered products, not just train models in notebooks
 - **Building:** [FutIQ](https://github.com/anamolshrestha-41/futIQ), a sports analytics project I recently started and am developing step by step
 - **Next:** PyTorch and computer vision
 
-### Featured projects
-
-| Project | What it is | Area |
-|---|---|---|
-| [**EduPredict-AI**](https://github.com/anamolshrestha-41/EduPredict-AI) | Predicts student final grades and pass/fail; compares models with cross-validation and tuning | Machine learning |
-| [**Devanagari-Character-Recognition**](https://github.com/anamolshrestha-41/Devanagari-Character-Recognition) | CNN for handwritten Devanagari characters with a FastAPI service (in progress: label and evaluation fixes) | Deep learning, computer vision |
-| [**FutIQ**](https://github.com/anamolshrestha-41/futIQ) | Football and futsal analytics, starting with English Premier League data (early stage) | Sports analytics |
-| [**futMark**](https://github.com/anamolshrestha-41/futMark) | Full-stack app: Node/Express/MongoDB API, authentication, real-time features, React and Flutter clients | Software engineering |
-
 ### Skills
-
 **Used in projects**  
 Python · NumPy · Pandas · Matplotlib · Plotly · scikit-learn · JavaScript · Node.js · Express · MongoDB · React · REST APIs · Git
 
